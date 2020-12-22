@@ -31,7 +31,8 @@ Once you are done with all this you can start with the notebooks :)
 ## Material for the Workshop
 
 Day 0 [session recording](https://drive.google.com/file/d/1SeQPHmDuDhe_lZz6MRtx5ymNXKn6ADLI/view?usp=drivesdk)
-Day 0 [slides](/Number Theory/Slides/Day0.pdf)
+
+Day 0 [slides](/"Number Theory"/Slides/Day0.pdf)
 
 Day 1 session links: [Part 1](https://drive.google.com/file/d/1ZZmoPK2yrnuXBdOJUlYcva9MBBxh2qVl/view?usp=drivesdk), [Part 2](https://drive.google.com/file/d/1umh3L-pebj3T6VHnXRgaSe2qg95FwTKy/view?usp=drivesdk)
 
