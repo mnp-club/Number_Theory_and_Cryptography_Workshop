@@ -36,9 +36,9 @@ Day 0 [slides](Number%20Theory/Slides/Day%200.pdf)
 
 Day 1 session links: [Part 1](https://drive.google.com/file/d/1ZZmoPK2yrnuXBdOJUlYcva9MBBxh2qVl/view?usp=drivesdk), [Part 2](https://drive.google.com/file/d/1umh3L-pebj3T6VHnXRgaSe2qg95FwTKy/view?usp=drivesdk)
 
-Day 1 [slides](https://drive.google.com/file/d/1ddJB6ubWwE6asH92VGUrC_ngYBQa6Fs8/view?usp=drivesdk)
+Day 1 [slides](Number%20Theory/Slides/Day%201.pdf)
 
-Day 1 [assignment](https://drive.google.com/file/d/13XG1evtV1Ius5WKavmjoIdcZrvHlQL9H/view?usp=drivesdk)
+Day 1 [assignment](Number%20Theory/Assignments/Day%201%20Assignment.ipynb)
 
 The assignment is fill in the blanks type, where you have to fill in the code in a jupyter notebook. If you couldn't get jupyter up and running, you can check out [this link](https://youtu.be/CwFq3YDU6_Y)
 
