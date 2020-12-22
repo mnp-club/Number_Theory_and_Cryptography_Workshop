@@ -1,6 +1,6 @@
 # Introduction To Number Theory And Cryptography Workshop
 
-Welcome aboard! This is the official GitHub Repository for the Introduction to Number Theory and Cryptography Workshop organised by the Maths and Physics Club, IIT Bombay. 
+Welcome aboard! This is the official GitHub Repository for the Introduction to Number Theory and Cryptography Workshop organised by the [Maths and Physics Club](http://mnp-club.github.io/), IIT Bombay. 
 The main aim of this workshop will be to introduce some concepts of number theory and cryptography and implement them using Python.
 
 Certificates will be awarded on the basis of the meeting the completion criteria [[1](/Number%20Theory)].
