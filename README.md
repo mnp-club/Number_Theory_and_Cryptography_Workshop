@@ -3,7 +3,7 @@
 Welcome aboard! This is the official GitHub Repository for the Introduction to Number Theory and Cryptography Workshop organised by the Maths and Physics Club, IIT Bombay. 
 The main aim of this workshop will be to introduce some concepts of number theory and cryptography and implement them using Python.
 
-Certificates will be awarded on the basis of the meeting the completion criteria[1](/Number%20Theory).
+Certificates will be awarded on the basis of the meeting the completion criteria [[1](/Number%20Theory)].
 
 ## Starting up
 
@@ -30,15 +30,12 @@ Once you are done with all this you can start with the notebooks :)
 
 ## Material for the Workshop
 
-Day 0 [session recording](https://drive.google.com/file/d/1SeQPHmDuDhe_lZz6MRtx5ymNXKn6ADLI/view?usp=drivesdk)
+*Day 0*: <br>[Session recording](https://drive.google.com/file/d/1SeQPHmDuDhe_lZz6MRtx5ymNXKn6ADLI/view?usp=drivesdk)
+<br>[Slides](Number%20Theory/Slides/Day%200.pdf)
 
-Day 0 [slides](Number%20Theory/Slides/Day%200.pdf)
-
-Day 1 session links: [Part 1](https://drive.google.com/file/d/1ZZmoPK2yrnuXBdOJUlYcva9MBBxh2qVl/view?usp=drivesdk), [Part 2](https://drive.google.com/file/d/1umh3L-pebj3T6VHnXRgaSe2qg95FwTKy/view?usp=drivesdk)
-
-Day 1 [slides](Number%20Theory/Slides/Day%201.pdf)
-
-Day 1 [assignment](Number%20Theory/Assignments/Day%201%20Assignment.ipynb)
+*Day 1*: <br>Session links - [Part 1](https://drive.google.com/file/d/1ZZmoPK2yrnuXBdOJUlYcva9MBBxh2qVl/view?usp=drivesdk), [Part 2](https://drive.google.com/file/d/1umh3L-pebj3T6VHnXRgaSe2qg95FwTKy/view?usp=drivesdk)
+<br>[Slides](Number%20Theory/Slides/Day%201.pdf)
+<br>[Assignment](Number%20Theory/Assignments/Day%201%20Assignment.ipynb)
 
 The assignment is fill in the blanks type, where you have to fill in the code in a jupyter notebook. If you couldn't get jupyter up and running, you can check out [this link](https://youtu.be/CwFq3YDU6_Y)
 
