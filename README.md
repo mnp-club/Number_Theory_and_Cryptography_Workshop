@@ -32,7 +32,7 @@ Once you are done with all this you can start with the notebooks :)
 
 Day 0 [session recording](https://drive.google.com/file/d/1SeQPHmDuDhe_lZz6MRtx5ymNXKn6ADLI/view?usp=drivesdk)
 
-Day 0 [slides](Number Theory/Slides/Day 0.pdf)
+Day 0 [slides]("Number Theory/Slides/Day 0.pdf")
 
 Day 1 session links: [Part 1](https://drive.google.com/file/d/1ZZmoPK2yrnuXBdOJUlYcva9MBBxh2qVl/view?usp=drivesdk), [Part 2](https://drive.google.com/file/d/1umh3L-pebj3T6VHnXRgaSe2qg95FwTKy/view?usp=drivesdk)
 
@@ -46,7 +46,7 @@ The assignment is fill in the blanks type, where you have to fill in the code in
 
 If you are facing troubles you can ask your doubts on the [Slack Workspace](https://join.slack.com/t/numbertheorymnp/shared_invite/zt-k2soxcki-KjB45dA0FehDKvTWN9KBOQ).<br>
 
-We will have a guest lecture by Shanta Laishram, Indian Statistical Institute on 26th December at 7 PM
+We will have a guest lecture by [Shanta Laishram](https://www.isical.ac.in/shanta-laishram), Indian Statistical Institute on 26th December at 7 PM
 
 We hope you have fun and learn something new :)
 
