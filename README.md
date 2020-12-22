@@ -33,9 +33,7 @@ Once you are done with all this you can start with the notebooks :)
 Day 0 [session recording](https://drive.google.com/file/d/1SeQPHmDuDhe_lZz6MRtx5ymNXKn6ADLI/view?usp=drivesdk)
 Day 0 [slides](https://drive.google.com/file/d/10gtDBTKGRFXezzZu4oUKRg41MVZoOC95/view?usp=drivesdk)
 
-Day 1 session links :
-[Part 1](https://drive.google.com/file/d/1ZZmoPK2yrnuXBdOJUlYcva9MBBxh2qVl/view?usp=drivesdk) <br>
-[Part 2](https://drive.google.com/file/d/1umh3L-pebj3T6VHnXRgaSe2qg95FwTKy/view?usp=drivesdk)
+Day 1 session links: [Part 1](https://drive.google.com/file/d/1ZZmoPK2yrnuXBdOJUlYcva9MBBxh2qVl/view?usp=drivesdk), [Part 2](https://drive.google.com/file/d/1umh3L-pebj3T6VHnXRgaSe2qg95FwTKy/view?usp=drivesdk)
 
 Day 1 [slides](https://drive.google.com/file/d/1ddJB6ubWwE6asH92VGUrC_ngYBQa6Fs8/view?usp=drivesdk)
 
@@ -45,4 +43,12 @@ The assignment is fill in the blanks type, where you have to fill in the code in
 
 **Note:** the markdown texts may look a little messed up on the github preview but on downloading it will be completely fine.
 
-If you are facing troubles you can ask your doubts on the [telegram group](https://t.me/joinchat/R8Z5FhfzigvZWYIxTrz6Zw).<br>
+If you are facing troubles you can ask your doubts on the [Slack Workspace](https://join.slack.com/t/numbertheorymnp/shared_invite/zt-k2soxcki-KjB45dA0FehDKvTWN9KBOQ).<br>
+
+We will have a guest lecture by Shanta Laishram, Indian Statistical Institute on 26th December at 7 PM
+
+We hope you have fun and learn something new :)
+
+## References
+
+[MA 523](http://www.math.iitb.ac.in/Academics/course_resources.php): Basic Number Theory. A full-semester course offered by the Department of Mathematics, IIT Bombay<br>
