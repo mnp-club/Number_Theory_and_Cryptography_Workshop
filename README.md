@@ -50,7 +50,6 @@ We hope you have fun and learn something new :)
 ## References
 
 [MA 523](http://www.math.iitb.ac.in/Academics/course_resources.php): Basic Number Theory. A full-semester course offered by the Department of Mathematics, IIT Bombay<br>
-
 [References for Cryptography](Cryptography/References): A compilation of references used for the second part of the workshop
 
 <!--
