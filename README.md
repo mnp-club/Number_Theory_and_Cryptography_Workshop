@@ -39,6 +39,8 @@ Once you are done with all this you can start with the notebooks :)
 
 The assignment is fill in the blanks type, where you have to fill in the code in a jupyter notebook. If you couldn't get jupyter up and running, you can check out [this link](https://youtu.be/CwFq3YDU6_Y)
 
+Cryptography stuff can be found [here](/Cryptography)
+
 **Note:** the markdown texts may look a little messed up on the github preview but on downloading it will be completely fine.
 ##
 If you are facing troubles you can ask your doubts on the [Slack Workspace](https://join.slack.com/t/numbertheorymnp/shared_invite/zt-k2soxcki-KjB45dA0FehDKvTWN9KBOQ).<br>
