@@ -39,6 +39,10 @@ Once you are done with all this you can start with the notebooks :)
 
 The assignment is fill in the blanks type, where you have to fill in the code in a jupyter notebook. If you couldn't get jupyter up and running, you can check out [this link](https://youtu.be/CwFq3YDU6_Y)
 
+*Day 2*: <br>[Session recording](https://drive.google.com/file/d/1Dd6f6SQfv7-rhus5HD5XwARK8NyyUL1p/view)
+<br>[Slides](Number%20Theory/Slides/Day%202.pdf)
+<br>[Assignment](Number%20Theory/Assignments/Day%202%20Assignment.pdf)
+
 Cryptography stuff can be found [here](/Cryptography)
 
 **Note:** the markdown texts may look a little messed up on the github preview but on downloading it will be completely fine.
