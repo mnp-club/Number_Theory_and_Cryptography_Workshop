@@ -6,7 +6,7 @@ Once you have gone through the handout provided, check out the demo notebook on 
 
 The [*Demo Session*](Demo%20Session.ipynb) notebook will be used in conjunction with the Day 3 of the workshop. The Slides will be uploaded soon, so keep tabs on that to get the full picture.
 
-[*RSA Assignment*](RSA%20Assignment.ipynb) includes 7 questions out which the answers for the first 3 lie scattered around in the content that was covered. Only the last 4 will count towards meeting the certification requirements and you required to solve (and submit) atleast 2 of those. Of course, googl-ing the answer is the easy way out :(
+[*RSA Assignment*](RSA%20Assignment.ipynb) includes 7 questions out which the answers for the first 3 lie scattered around in the content that was covered. Only the last 4 will count towards meeting the certification requirements and you are required to solve (and submit) atleast 2 of those. Of course, googl-ing the answer is the easy way out :(
 
 <!--
 Contributors: Aravind Bharathi
