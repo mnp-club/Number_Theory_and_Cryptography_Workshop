@@ -8,6 +8,10 @@ The [*Demo Session*](Demo%20Session.ipynb) notebook will be used in conjunction 
 
 [*RSA Assignment*](RSA%20Assignment.ipynb) includes 7 questions out which the answers for the first 3 lie scattered around in the content that was covered. Only the last 4 will count towards meeting the certification requirements and you are required to solve (and submit) atleast 2 of those. Of course, googl-ing the answer is the easy way out :(
 
+[*RSA Quest*](RSA%20Quest.ipynb) is the file that contains the treasure hunt
+
+[Here](https://drive.google.com/file/d/1fEmxwfpzsksoo_jySH9zltP5c8oalOui/view?usp=sharing) is the link to the recording of Day 3
+
 <!--
 Contributors: Aravind Bharathi
 -->
